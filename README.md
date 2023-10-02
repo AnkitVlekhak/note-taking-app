@@ -16,7 +16,7 @@
  </p>
 
 <p align="center">
-Do star the Decoder's College Notes repository ✨✨✨
+Do star the Decoder's Heropedia repository ✨✨✨
 </p>
 
 <br>
